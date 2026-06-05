@@ -4,9 +4,10 @@ Computer Science Student | Future Software Engineer
 
 Building a strong foundation in Computer Science through Harvard's CS50x while developing real-world projects and documenting the learning journey.
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinical-bit&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinical-bit&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinical-bit&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinical-bit&layout=compact"/>
+</p>
 
 ---
 
