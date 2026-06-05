@@ -1,4 +1,7 @@
 # Vinicius Cavalcanti de Carvalho
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinical-bit&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinical-bit&layout=compact)
 
 Computer Science Student | Future Software Engineer
 
